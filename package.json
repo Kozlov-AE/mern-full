@@ -1,0 +1,25 @@
+{
+  "name": "mern-course",
+  "version": "1.0.0",
+  "description": "Mern stack, learn app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "mern",
+    "reack",
+    "js"
+  ],
+  "author": "Kozlov-AE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
