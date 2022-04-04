@@ -15,6 +15,7 @@
   "author": "Kozlov-AE",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.7",
     "express": "^4.17.3",
     "mongoose": "^6.2.8"
   },
